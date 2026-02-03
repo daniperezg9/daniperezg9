@@ -1,4 +1,4 @@
-Computer Science student with great passion on Cybersecurity. 
+Computer Science student with great passion for Cybersecurity. 
 
 I've focusing on pentesting by learning it through different webs such as TryHackMe, PortSwigger & INE.
 
